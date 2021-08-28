@@ -1,4 +1,4 @@
-## Vinush Kumar's First CS193 Homework
+# Vinush Kumar's First CS193 Homework
 
 ## Some of my favorite things about CS193
 
